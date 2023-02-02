@@ -1,0 +1,4 @@
+[submodule "ksqldb-kafka-streams-viz"]
+	path = ksqldb-kafka-streams-viz
+	url = https://github.com/cedricbarbin/ksqldb-kafka-streams-viz.git
+	branch = gh-pages
